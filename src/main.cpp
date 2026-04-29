@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include <Keypad.h>
 
 const uint8_t LEDS = 12;
